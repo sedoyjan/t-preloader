@@ -1,6 +1,6 @@
 {
   "name": "t-preloader",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "terminal progress bar and clock preloader",
   "main": "index.js",
   "scripts": {
